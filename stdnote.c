@@ -31,7 +31,6 @@ char * class;
 int day;
 int year;
 
-
 //found in validate.c
 int checkValidMonth(char * month);
 int checkValidDay(int mt, int d, int y);
